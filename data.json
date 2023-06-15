@@ -1,0 +1,4980 @@
+{
+  "leverages": {
+    "success": true,
+    "totalRecords": 136,
+    "data": [
+      {
+        "id": "SBJM-DJLFXV",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "Second offer submission- Kaufmännische Verhandlungsfreiheit - all contractual and content topics aligned",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "MKT",
+        "engagementType": "RFX_VALUE_ENGAGEMENT",
+        "closeDate": "2023/06/09",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "ESTABLISHED",
+        "previousStatus": "EMPTY",
+        "type": "OPPORTUNITY",
+        "title": "3DEXPERIENCE for future Engineering Platform (Connected Engineering Phase 1 - SW)",
+        "description": "CATIA MUST WIN",
+        "budgetStatus": "UNKNOWN",
+        "competitors": ["ALTERYX"],
+        "levelOfInterest": null,
+        "budgetAmount": 1000,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": "2023/05/31 00:00:00",
+        "leadPriority": "EMPTY",
+        "wonReasons": ["EMPTY"],
+        "lostReasons": ["EMPTY"],
+        "legalEntity": {
+          "id": "100000000001559",
+          "name": "BAYERISCHE MOTOREN WERKE AG",
+          "geoRdmId": "GSGE00003",
+          "geo": "EUROCENTRAL",
+          "industryRdmId": "MDMIND00001",
+          "industry": "01.Transportation & Mobility",
+          "segment": "01.1.Car & Light Truck OEMs",
+          "country": "GERMANY",
+          "customerEngagementType": "Partnership",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": "UPC000592",
+          "upcname": "BAYERISCHE MOTOREN WERKE AG",
+          "countryId": "GSCT00034",
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": "MDMSUBIND00001",
+          "leadingCem": "Customer Solution Experience",
+          "brandSalesException": null,
+          "isTransactionEnabled": true,
+          "isUsable": null,
+          "exportControl": "Unrestricted",
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": "QUALIFIED",
+          "financeStatus": "Active"
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "100000000001562",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 10000000,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "BRAND",
+              "level1": "3DEXPERIENCE",
+              "level2": "Governance/Lifecycle",
+              "level3": "Virtual Product Development",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": {
+            "roadmapToPlan": "OUT",
+            "estimatedLandingMode": "CALC",
+            "upfrontEstimatedLandingAmount_base": 0,
+            "servicesSigningEstimatedLandingAmount_base": 0,
+            "rentalEstimatedLandingAmount_base": 0,
+            "firstYearAcvAmount_base": 0,
+            "firstYearAcvEstimatedAmount_base": 0,
+            "compensationAmount_base": 0
+          }
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "UPSIDE",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2019/08/27 00:00:00",
+        "lastActionTime": "2023/05/29 10:42:27",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "ASK6",
+        "lastModifiedBy": "System (MCE)",
+        "powerMapMembers": [
+          "KXN",
+          "BC",
+          "IPG",
+          "JIL1",
+          "GO1",
+          "WB4",
+          "ERU",
+          "FFK",
+          "O7T",
+          "K45",
+          "KFJ",
+          "M9Z",
+          "MAT1",
+          "O1T",
+          "DUF",
+          "VJJ",
+          "JG6",
+          "V46",
+          "ATR14",
+          "LMI12",
+          "O8F",
+          "XS8",
+          "PWJ",
+          "MHR11",
+          "JHE2",
+          "D6Z",
+          "KGH5",
+          "YVL1",
+          "FCA2",
+          "VOJ",
+          "TFN2",
+          "UIG",
+          "XT3",
+          "SSN34",
+          "PN8",
+          "JBL3",
+          "E5O"
+        ],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": {
+          "rdmId": "RDMCHANNEL_00023",
+          "name": "Customer Solution Experience",
+          "mode": "Legal Entity Engagement"
+        },
+        "external": {
+          "mceLeadId": "CJ3Q-VXN7VD",
+          "mceOpportunityId": "X5GD-YX7U3X",
+          "id": "ADOA-PDJ9T6",
+          "source": "Client Sale",
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": "-2137254647",
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": "-2137254647",
+            "name": "2019-09-ABM-EVENT-BMW 3DEXPERIENCE Technology Day-ECAL-DE",
+            "internalName": "OP57827",
+            "description": "3DEXPERIENCE Technology Day\nTakes place September 11th 2109\nat 3DExperience Center in at 3DExcite Office / Rosenheimer Straße / Excite\n\nABM dedicated event, only for BMW employees\nincluding the new T&M portable playground\n\nTopics are:\n\n- Update to Dassault Systemes and new Client Executive \n- introduction to 3Dexperience\n- VR Demonstration\n- Costumer stories for Model Based Systems Engineering & contruction simulation\n- What's next? Machine Learning, Crashworthiness, Electric Vehicle and generative design engineering\n\n\nAll Brands like CATIA, ENOVIA/EXALEAD, SIMULIA, DELMIA included",
+            "programName": "3DEXPERIENCE PLM Collaboration Services",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "#NST #dvs-structured TISAX required",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "EMPTY",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "WVEM-ZD2HDO",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "RFX_VALUE_ENGAGEMENT",
+        "closeDate": "2024/12/31",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "WON",
+        "previousStatus": "OPPY_OPEN",
+        "type": "OPPORTUNITY",
+        "title": "CATIA V5 to CATIA 3DEXP for Future Mech Engineering -  Phase 2",
+        "description": "Description test",
+        "budgetStatus": "EMPTY",
+        "competitors": ["APPIAN"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": ["SOLUTION_FUNCT"],
+        "lostReasons": ["EMPTY"],
+        "legalEntity": {
+          "id": "200000000108031",
+          "name": "VOLVO CAR CORPORATION",
+          "geoRdmId": "GSGE00005",
+          "geo": "EURONORTH",
+          "industryRdmId": "MDMIND00001",
+          "industry": "01.Transportation & Mobility",
+          "segment": "01.1.Car & Light Truck OEMs",
+          "country": "SWEDEN",
+          "customerEngagementType": "Partnership",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": "UPC001732",
+          "upcname": "ZHEJIANG GEELY HOLDING GROUP CO LTD",
+          "countryId": "GSCT00047",
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": "MDMSUBIND00001",
+          "leadingCem": "Customer Solution Experience",
+          "brandSalesException": null,
+          "isTransactionEnabled": true,
+          "isUsable": null,
+          "exportControl": "Unrestricted",
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": "QUALIFIED",
+          "financeStatus": "Active"
+        },
+        "varPartner": {
+          "id": "200000000080518",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 8400000,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "ENOVIA V6",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            },
+            {
+              "revenueType": null,
+              "infrastructure": "PUBLIC_CLOUD",
+              "portfolioType": "BRAND",
+              "level1": "ENOVIA",
+              "level2": "SIMULIA V6",
+              "level3": null,
+              "detailedRevenueType": null
+            },
+            {
+              "revenueType": null,
+              "infrastructure": null,
+              "portfolioType": null,
+              "level1": "SIMULIA",
+              "level2": "Global Modular Architecture",
+              "level3": null,
+              "detailedRevenueType": null
+            }
+          ],
+          "forecast": {
+            "roadmapToPlan": "IN",
+            "estimatedLandingMode": "CALC",
+            "upfrontEstimatedLandingAmount_base": 8400000,
+            "servicesSigningEstimatedLandingAmount_base": 0,
+            "rentalEstimatedLandingAmount_base": 0,
+            "firstYearAcvAmount_base": 0,
+            "firstYearAcvEstimatedAmount_base": 0,
+            "compensationAmount_base": 0
+          }
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "WON",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2022/09/06 07:03:54",
+        "lastActionTime": "2023/05/31 07:40:31",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "CEN3",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": [
+          "RSH12",
+          "ZO7",
+          "COD3",
+          "TTR5",
+          "IYX",
+          "ZK9",
+          "GS7",
+          "J4T",
+          "ZPC",
+          "TOL",
+          "HEO",
+          "PQZ",
+          "UKO",
+          "CEN3",
+          "COD",
+          "TLM1"
+        ],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": {
+          "rdmId": "RDMCHANNEL_00023",
+          "name": "Customer Solution Experience",
+          "mode": "Legal Entity Engagement"
+        },
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "T953-P8585T",
+          "id": null,
+          "source": "3DXSale",
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": "2023/06/01 00:00:00",
+          "text1": "Mechanical Engineering - IC NEEDED",
+          "text2": "Test Custom text 2",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1685518831128",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "PIF9-UTH2ZZ",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/30",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LEAD_OPEN",
+        "previousStatus": "EMPTY",
+        "type": "LEAD",
+        "title": "test_currancy",
+        "description": "test123",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 10815,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000529455",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 135423,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 1518,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "On-Target Vehicle Launch",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            },
+            {
+              "revenueType": "RENTAL_BOOKING",
+              "infrastructure": null,
+              "portfolioType": null,
+              "level1": "04. Industrial Equipment",
+              "level2": "Ready To Make",
+              "level3": null,
+              "detailedRevenueType": null
+            },
+            {
+              "revenueType": null,
+              "infrastructure": null,
+              "portfolioType": null,
+              "level1": null,
+              "level2": "Aftersales & Customer Service",
+              "level3": null,
+              "detailedRevenueType": null
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/10 11:24:19",
+        "lastActionTime": "2023/04/10 09:58:35",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "BOOKING_AND_REVENUE",
+          "rentalRevenueRecognitionRules": "IRFS_15",
+          "includeInCompensationComputation": "COMPENSATION_RULES",
+          "rentalContractType": "REGULAR"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1681120715989",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "HLH2-LW3QVX",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/04/07",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "OPPY_OPEN",
+        "previousStatus": "LOST",
+        "type": "OPPORTUNITY",
+        "title": "test_jk hello",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["ALTAIR"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": ["EMPTY"],
+        "lostReasons": ["DS_SKILLS_SUPPORT_ISSUE"],
+        "legalEntity": {
+          "id": "SIT00001075",
+          "name": "VENTURI AUTOMOBILES SAM",
+          "geoRdmId": "GSGE00008",
+          "geo": "EUROWEST",
+          "industryRdmId": "MDMIND00001",
+          "industry": "01.Transportation & Mobility",
+          "segment": "01.1.Car & Light Truck OEMs",
+          "country": "MONACO",
+          "customerEngagementType": "No Customer Engagement Type",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": "SIT00001075",
+          "upcname": "STANDALONE",
+          "countryId": "GSCT00119",
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": "MDMSUBIND00001",
+          "leadingCem": "Customer Process Experience",
+          "brandSalesException": null,
+          "isTransactionEnabled": true,
+          "isUsable": null,
+          "exportControl": "Unrestricted",
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": "EMPTY",
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "200000000080518",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "200000000204234",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123323,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "SOLIDWORKS",
+              "level2": "SOLIDWORKS V1",
+              "level3": "01-Requirements Engineering, Verification & Validation",
+              "detailedRevenueType": "EMPTY"
+            },
+            {
+              "revenueType": null,
+              "infrastructure": null,
+              "portfolioType": "BRAND",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Efficient Multi-Energy Platform",
+              "level3": null,
+              "detailedRevenueType": null
+            },
+            {
+              "revenueType": null,
+              "infrastructure": null,
+              "portfolioType": null,
+              "level1": null,
+              "level2": "Aftersales & Customer Service",
+              "level3": null,
+              "detailedRevenueType": null
+            }
+          ],
+          "forecast": {
+            "roadmapToPlan": "OUT",
+            "estimatedLandingMode": "CALC",
+            "upfrontEstimatedLandingAmount_base": 0,
+            "servicesSigningEstimatedLandingAmount_base": 0,
+            "rentalEstimatedLandingAmount_base": 0,
+            "firstYearAcvAmount_base": 0,
+            "firstYearAcvEstimatedAmount_base": 0,
+            "compensationAmount_base": 0
+          }
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "UPSIDE",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/20 12:11:43",
+        "lastActionTime": "2023/05/31 07:04:01",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1685516641885",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "ILQV-IZR4OA",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/04/07",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LEAD_OPEN",
+        "previousStatus": "EMPTY",
+        "type": "LEAD",
+        "title": "test_123",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000744153",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/20 12:10:53",
+        "lastActionTime": "2023/03/20 12:14:58",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1679314498594",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "1YTS-1QYQTE",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/31",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LOST",
+        "previousStatus": "LEAD_OPEN",
+        "type": "LEAD",
+        "title": "test_123",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["AGGA_SOFTWARE"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": ["EMPTY"],
+        "lostReasons": ["UNMOVABLE_COMPET"],
+        "legalEntity": {
+          "id": "SIT00001075",
+          "name": "VENTURI AUTOMOBILES SAM",
+          "geoRdmId": "GSGE00008",
+          "geo": "EUROWEST",
+          "industryRdmId": "MDMIND00001",
+          "industry": "01.Transportation & Mobility",
+          "segment": "01.1.Car & Light Truck OEMs",
+          "country": "MONACO",
+          "customerEngagementType": "No Customer Engagement Type",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": "SIT00001075",
+          "upcname": "STANDALONE",
+          "countryId": "GSCT00119",
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": "MDMSUBIND00001",
+          "leadingCem": "Customer Process Experience",
+          "brandSalesException": null,
+          "isTransactionEnabled": true,
+          "isUsable": null,
+          "exportControl": "Unrestricted",
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": "EMPTY",
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/20 12:17:44",
+        "lastActionTime": "2023/05/24 09:19:25",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": {
+          "rdmId": "RDMCHANNEL_00024",
+          "name": "Customer Process Experience",
+          "mode": null
+        },
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1684919965389",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "U3W9-FIBMRF",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/31",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LOST",
+        "previousStatus": "VALIDATED",
+        "type": "OPPORTUNITY",
+        "title": "test_123123",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["ALTAIR"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": ["EMPTY"],
+        "lostReasons": ["DS_SKILLS_SUPPORT_ISSUE"],
+        "legalEntity": {
+          "id": "100000000001576",
+          "name": "FRAMATOME",
+          "geoRdmId": "GSGE00008",
+          "geo": "EUROWEST",
+          "industryRdmId": "MDMIND00019",
+          "industry": "09.Infrastructure, Energy & Materials",
+          "segment": "09.5.Power",
+          "country": "FRANCE",
+          "customerEngagementType": "Partnership",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": "UPC000747",
+          "upcname": "ELECTRICITE DE FRANCE",
+          "countryId": "GSCT00118",
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": "MDMSUBIND00046",
+          "leadingCem": "Customer Solution Experience",
+          "brandSalesException": null,
+          "isTransactionEnabled": true,
+          "isUsable": null,
+          "exportControl": "Unrestricted",
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": "EMPTY",
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "200000000065231",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 3232.56,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "01-Requirements Engineering, Verification & Validation",
+              "detailedRevenueType": "EMPTY"
+            },
+            {
+              "revenueType": "RENTAL_BOOKING",
+              "infrastructure": null,
+              "portfolioType": null,
+              "level1": null,
+              "level2": null,
+              "level3": null,
+              "detailedRevenueType": null
+            }
+          ],
+          "forecast": {
+            "roadmapToPlan": "OUT",
+            "estimatedLandingMode": "CALC",
+            "upfrontEstimatedLandingAmount_base": 0,
+            "servicesSigningEstimatedLandingAmount_base": 0,
+            "rentalEstimatedLandingAmount_base": 0,
+            "firstYearAcvAmount_base": 1620.72033,
+            "firstYearAcvEstimatedAmount_base": 0,
+            "compensationAmount_base": 0
+          }
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "LOST",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/09 13:34:44",
+        "lastActionTime": "2023/05/24 11:30:42",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "BOOKING_AND_REVENUE",
+          "rentalRevenueRecognitionRules": "IRFS_15",
+          "includeInCompensationComputation": "COMPENSATION_RULES",
+          "rentalContractType": "REGULAR"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1684927842766",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "AICM-8OHK7S",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/31",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "WON",
+        "previousStatus": "OPPY_OPEN",
+        "type": "OPPORTUNITY",
+        "title": "test_457568",
+        "description": "EMPTY",
+        "budgetStatus": "REQUESTED",
+        "competitors": ["ALTAIR"],
+        "levelOfInterest": null,
+        "budgetAmount": 100,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": ["STRONG_CLIENT_RELATION"],
+        "lostReasons": ["EMPTY"],
+        "legalEntity": {
+          "id": "SIT00001075",
+          "name": "VENTURI AUTOMOBILES SAM",
+          "geoRdmId": "GSGE00008",
+          "geo": "EUROWEST",
+          "industryRdmId": "MDMIND00001",
+          "industry": "01.Transportation & Mobility",
+          "segment": "01.1.Car & Light Truck OEMs",
+          "country": "MONACO",
+          "customerEngagementType": "No Customer Engagement Type",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": "SIT00001075",
+          "upcname": "STANDALONE",
+          "countryId": "GSCT00119",
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": "MDMSUBIND00001",
+          "leadingCem": "Customer Process Experience",
+          "brandSalesException": null,
+          "isTransactionEnabled": true,
+          "isUsable": null,
+          "exportControl": "Unrestricted",
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": "EMPTY",
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 1234.56,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "01-Requirements Engineering, Verification & Validation",
+              "detailedRevenueType": "EMPTY"
+            },
+            {
+              "revenueType": "RENTAL_BOOKING",
+              "infrastructure": null,
+              "portfolioType": null,
+              "level1": null,
+              "level2": null,
+              "level3": null,
+              "detailedRevenueType": null
+            }
+          ],
+          "forecast": {
+            "roadmapToPlan": "IN",
+            "estimatedLandingMode": "CALC",
+            "upfrontEstimatedLandingAmount_base": 123123,
+            "servicesSigningEstimatedLandingAmount_base": 0,
+            "rentalEstimatedLandingAmount_base": 1234.56,
+            "firstYearAcvAmount_base": 631.112605,
+            "firstYearAcvEstimatedAmount_base": 631.112605,
+            "compensationAmount_base": 0
+          }
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "WON",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/09 13:35:58",
+        "lastActionTime": "2023/05/29 05:54:12",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "BOOKING_AND_REVENUE",
+          "rentalRevenueRecognitionRules": "IRFS_15",
+          "includeInCompensationComputation": "COMPENSATION_RULES",
+          "rentalContractType": "REGULAR"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1685339652803",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "1CZA-BCUQDI",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/20",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LEAD_OPEN",
+        "previousStatus": "EMPTY",
+        "type": "LEAD",
+        "title": "test_789",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000529455",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "02. Aerospace & Defense",
+              "level2": "Build to Operate",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/10 12:38:30",
+        "lastActionTime": "2023/03/10 12:39:05",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1678451945395",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "PETK-DVNHMY",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/29",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LEAD_OPEN",
+        "previousStatus": "EMPTY",
+        "type": "LEAD",
+        "title": "test",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000744153",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/10 12:44:36",
+        "lastActionTime": "2023/03/10 12:56:59",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1678453019039",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "8A66-RWH8RB",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/31",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LOST",
+        "previousStatus": "LEAD_OPEN",
+        "type": "LEAD",
+        "title": "test_123",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["ALTERYX"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": ["EMPTY"],
+        "lostReasons": ["PARTNER_SKILL_SUPPORT"],
+        "legalEntity": {
+          "id": "SIT00001075",
+          "name": "VENTURI AUTOMOBILES SAM",
+          "geoRdmId": "GSGE00008",
+          "geo": "EUROWEST",
+          "industryRdmId": "MDMIND00001",
+          "industry": "01.Transportation & Mobility",
+          "segment": "01.1.Car & Light Truck OEMs",
+          "country": "MONACO",
+          "customerEngagementType": "No Customer Engagement Type",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": "SIT00001075",
+          "upcname": "STANDALONE",
+          "countryId": "GSCT00119",
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": "MDMSUBIND00001",
+          "leadingCem": "Customer Process Experience",
+          "brandSalesException": null,
+          "isTransactionEnabled": true,
+          "isUsable": null,
+          "exportControl": "Unrestricted",
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": "EMPTY",
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "100000000001374",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "200000000158986",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 12345,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Build For Sea",
+              "level3": "01-Shipyard Production Scheduling and Optimization",
+              "detailedRevenueType": "EMPTY"
+            },
+            {
+              "revenueType": "RENTAL_BOOKING",
+              "infrastructure": null,
+              "portfolioType": null,
+              "level1": "03. Marine & Offshore",
+              "level2": "Aftersales & Customer Service",
+              "level3": null,
+              "detailedRevenueType": null
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/09 12:44:17",
+        "lastActionTime": "2023/05/31 06:41:59",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "BOOKING_AND_REVENUE",
+          "rentalRevenueRecognitionRules": "IRFS_15",
+          "includeInCompensationComputation": "COMPENSATION_RULES",
+          "rentalContractType": "REGULAR"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1685515319781",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "FKMO-CTX855",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/30",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LOST",
+        "previousStatus": "ACCEPTED",
+        "type": "LEAD",
+        "title": "test_789465",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": ["EMPTY"],
+        "lostReasons": ["LACK_OR_LOSS_OF_CHAMPION"],
+        "legalEntity": {
+          "id": "100000000001576",
+          "name": "FRAMATOME",
+          "geoRdmId": "GSGE00008",
+          "geo": "EUROWEST",
+          "industryRdmId": "MDMIND00019",
+          "industry": "09.Infrastructure, Energy & Materials",
+          "segment": "09.5.Power",
+          "country": "FRANCE",
+          "customerEngagementType": "Partnership",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": "UPC000747",
+          "upcname": "ELECTRICITE DE FRANCE",
+          "countryId": "GSCT00118",
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": "MDMSUBIND00046",
+          "leadingCem": "Customer Solution Experience",
+          "brandSalesException": null,
+          "isTransactionEnabled": true,
+          "isUsable": null,
+          "exportControl": "Unrestricted",
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": "EMPTY",
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "200000000080518",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/09 12:47:03",
+        "lastActionTime": "2023/05/22 14:55:26",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1684767326932",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "HFT7-CPJZUD",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "MKT_PARTNER_CO_MKT",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/04/01",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LEAD_OPEN",
+        "previousStatus": "EMPTY",
+        "type": "LEAD",
+        "title": "test_753",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000543274",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "200000000052452",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "APPROVED",
+          "id": "12312_asd",
+          "importMode": "DISABLED",
+          "dsComment": "test_123"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "asd",
+        "baselineCreationDate": "2023/03/09 12:59:13",
+        "lastActionTime": "2023/04/13 11:50:29",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1681386629626",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "ZAIZ-S95YN4",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/30",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LEAD_OPEN",
+        "previousStatus": "EMPTY",
+        "type": "LEAD",
+        "title": "test_123",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000529455",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/13 05:04:24",
+        "lastActionTime": "2023/03/13 05:04:54",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1678683894116",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "YQBZ-74VX62",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/30",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "QUALIFIED",
+        "previousStatus": "LEAD_OPEN",
+        "type": "LEAD",
+        "title": "test_876587",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000744153",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "200000000318231",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/13 05:06:20",
+        "lastActionTime": "2023/04/13 07:19:51",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1681370391392",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "QMQJ-LADAT8",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/30",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "ACCEPTED",
+        "previousStatus": "QUALIFIED",
+        "type": "LEAD",
+        "title": "ytdtdy_we",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000744153",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "200000000351381",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "03. Marine & Offshore",
+              "level2": "Keep Them At Sea",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/13 09:49:59",
+        "lastActionTime": "2023/04/13 11:54:45",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1681386885352",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "FKFC-MGQF3D",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/31",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "QUALIFIED",
+        "previousStatus": "LEAD_OPEN",
+        "type": "LEAD",
+        "title": "test_123",
+        "description": "EMPTY",
+        "budgetStatus": "UNKNOWN",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000529455",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "200000000080518",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/13 10:04:47",
+        "lastActionTime": "2023/04/13 06:59:34",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1681369174849",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "PJZL-GRJEVO",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "VALUE_ENGAGEMENT",
+        "closeDate": "2023/03/31",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LEAD_OPEN",
+        "previousStatus": "EMPTY",
+        "type": "LEAD",
+        "title": "test_apl64",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000744153",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/14 05:57:45",
+        "lastActionTime": "2023/03/14 05:58:23",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1678773503553",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "MQG0-2JOQFR",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/31",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "ACCEPTED",
+        "previousStatus": "QUALIFIED",
+        "type": "LEAD",
+        "title": "test",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000543274",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/10 05:47:23",
+        "lastActionTime": "2023/03/10 05:47:44",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1678427264255",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "0SYD-CYVA18",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "VALUE_ENGAGEMENT",
+        "closeDate": "2023/03/30",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LEAD_OPEN",
+        "previousStatus": "EMPTY",
+        "type": "LEAD",
+        "title": "test_Leverage_LifeCycle",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000543274",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/10 05:57:43",
+        "lastActionTime": "2023/03/10 05:57:43",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1678427863748",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "7BQR-0KPQJH",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "VALUE_ENGAGEMENT",
+        "closeDate": "2023/03/31",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LOST",
+        "previousStatus": "LEAD_OPEN",
+        "type": "LEAD",
+        "title": "test_leverage_lifecycle",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["ACCRUENT"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": ["EMPTY"],
+        "lostReasons": ["DS_SKILLS_SUPPORT_ISSUE"],
+        "legalEntity": {
+          "id": "200000000143474",
+          "name": "LAVIGNE",
+          "geoRdmId": "GSGE00008",
+          "geo": "EUROWEST",
+          "industryRdmId": "MDMIND00006",
+          "industry": "06.Home & Lifestyle",
+          "segment": "06.2.Sports & Leisure Goods",
+          "country": "FRANCE",
+          "customerEngagementType": "No Customer Engagement Type",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": "UPC013686",
+          "upcname": "EXACOMPTA-CLAIREFONTAINE",
+          "countryId": "GSCT00118",
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": "MDMSUBIND00033",
+          "leadingCem": "Customer Process Experience",
+          "brandSalesException": null,
+          "isTransactionEnabled": true,
+          "isUsable": null,
+          "exportControl": "Unrestricted",
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": "EMPTY",
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "200000000080518",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "02. Aerospace & Defense",
+              "level2": "Build to Operate",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/10 06:01:14",
+        "lastActionTime": "2023/05/25 10:34:09",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "test",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1685010849081",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "GJTU-NNWZ6F",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "VALUE_ENGAGEMENT",
+        "closeDate": "2023/03/30",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LEAD_OPEN",
+        "previousStatus": "EMPTY",
+        "type": "LEAD",
+        "title": "test_123",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000529455",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/10 06:03:46",
+        "lastActionTime": "2023/03/14 11:15:18",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1678792518417",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "UHTS-JDGG4X",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "VALUE_ENGAGEMENT",
+        "closeDate": "2023/03/31",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LEAD_OPEN",
+        "previousStatus": "EMPTY",
+        "type": "LEAD",
+        "title": "test",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000543274",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "02. Aerospace & Defense",
+              "level2": "Build to Operate",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/10 07:09:24",
+        "lastActionTime": "2023/03/10 07:09:24",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1678432164436",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "ER5M-RHZP61",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/03/31",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LEAD_OPEN",
+        "previousStatus": "EMPTY",
+        "type": "LEAD",
+        "title": "test_1764",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000009648",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "100000000002714",
+          "name": "TATA TECHNOLOGIES INC",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/10 09:57:57",
+        "lastActionTime": "2023/04/13 06:54:55",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": {
+          "rdmId": "RDMCHANNEL_00023",
+          "name": "Customer Solution Experience",
+          "mode": null
+        },
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1681368895721",
+        "salesMceLnoAligned": "No"
+      },
+      {
+        "id": "BQZZ-MJGLGY",
+        "targetInitiativeId": "EMPTY",
+        "targetInitiativeName": "EMPTY",
+        "nextMilestone": "EMPTY",
+        "nextWinPlanActivity": "EMPTY",
+        "businessStream": "FIELD_SALES_ENG",
+        "engagementType": "EXTEND",
+        "closeDate": "2023/04/01",
+        "currency": null,
+        "ownerFullNameTrigram": null,
+        "status": "LEAD_OPEN",
+        "previousStatus": "EMPTY",
+        "type": "LEAD",
+        "title": "test",
+        "description": "EMPTY",
+        "budgetStatus": "EMPTY",
+        "competitors": ["EMPTY"],
+        "levelOfInterest": null,
+        "budgetAmount": 0,
+        "numberOf3DExperiencePlatformUsers": 0,
+        "otherCompetitors": null,
+        "csiSourceCategory": "EMPTY",
+        "nextMilestoneDate": null,
+        "leadPriority": "EMPTY",
+        "wonReasons": null,
+        "lostReasons": null,
+        "legalEntity": {
+          "id": "200000000543274",
+          "name": "EMPTY",
+          "geoRdmId": null,
+          "geo": "EMPTY",
+          "industryRdmId": null,
+          "industry": "EMPTY",
+          "segment": "EMPTY",
+          "country": "EMPTY",
+          "customerEngagementType": "EMPTY",
+          "listOfClients": [
+            {
+              "id": "EMPTY",
+              "name": "EMPTY"
+            }
+          ],
+          "externalId": null,
+          "upcId": null,
+          "upcname": null,
+          "countryId": null,
+          "stateId": null,
+          "state": "EMPTY",
+          "segmentId": null,
+          "leadingCem": null,
+          "brandSalesException": null,
+          "isTransactionEnabled": null,
+          "isUsable": null,
+          "exportControl": null,
+          "upc": null,
+          "acceptableUsePolicy": null,
+          "reliability": null,
+          "financeStatus": null
+        },
+        "varPartner": {
+          "id": "EMPTY",
+          "name": "EMPTY",
+          "action": null,
+          "partnerContactIds": null
+        },
+        "csiPartners": [
+          {
+            "id": "EMPTY",
+            "name": "EMPTY",
+            "action": null
+          }
+        ],
+        "offer": {
+          "supportServicesExpectedRevenue_base": 0,
+          "upfrontExpectedRevenue_base": 123123,
+          "servicesSigningExpectedRevenue_base": 0,
+          "rentalBookingExpectedRevenue_base": 0,
+          "offerLines": [
+            {
+              "revenueType": "UPFRONT",
+              "infrastructure": "ON_PREMISE",
+              "portfolioType": "INDUSTRY",
+              "level1": "01. Transportation & Mobility",
+              "level2": "Aftersales & Customer Service",
+              "level3": "EMPTY",
+              "detailedRevenueType": "EMPTY"
+            }
+          ],
+          "forecast": null
+        },
+        "extensionPartner": {
+          "approvalStatus": "EMPTY",
+          "id": "EMPTY",
+          "importMode": "EMPTY",
+          "dsComment": "EMPTY"
+        },
+        "forecastCategory": "EMPTY",
+        "vsGrowthType": "EMPTY",
+        "cometCampaignCode": "EMPTY",
+        "baselineCreationDate": "2023/03/09 12:20:52",
+        "lastActionTime": "2023/03/14 11:20:39",
+        "isDeleted": "FALSE",
+        "isMerged": "FALSE",
+        "createdBy": "editusr10",
+        "lastModifiedBy": "EMPTY",
+        "powerMapMembers": ["EDITUSR10"],
+        "specialBidOrder": {
+          "id": "EMPTY",
+          "indicator": "EMPTY",
+          "status": "EMPTY"
+        },
+        "purchaseOrder": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "information": "EMPTY",
+          "indicator": "EMPTY",
+          "upfrontAmount_base": null,
+          "rentalBookingAmount_base": null,
+          "supportServicesAmount_base": null
+        },
+        "renewal": {
+          "id": "EMPTY",
+          "status": "EMPTY",
+          "lastActionTime": null,
+          "syncMode": "EMPTY"
+        },
+        "customerEngagementModel": null,
+        "external": {
+          "mceLeadId": "EMPTY",
+          "mceOpportunityId": "EMPTY",
+          "id": null,
+          "source": null,
+          "baselineCreationDate": null
+        },
+        "services": {
+          "preproposalId": "EMPTY",
+          "proposalId": "EMPTY",
+          "statusJustification": "EMPTY",
+          "syncMode": "EMPTY",
+          "signingAmount_base": null,
+          "financeOperatingUnit": "EMPTY",
+          "lastActionTime": null
+        },
+        "licenseCompliance": {
+          "lastSynchronizationTime": null,
+          "synchronizationStatus": null,
+          "id": "EMPTY",
+          "numberOfSeats": null
+        },
+        "marketing": {
+          "id": null,
+          "language": "EMPTY",
+          "teleQualifierTrigram": "EMPTY",
+          "teleQualifierName": "EMPTY",
+          "domainOfInterest": "EMPTY",
+          "campaign": {
+            "lastSynchronizationTime": null,
+            "synchronizationStatus": null,
+            "id": null,
+            "name": "EMPTY",
+            "internalName": "EMPTY",
+            "description": null,
+            "programName": "EMPTY",
+            "programType": "EMPTY"
+          }
+        },
+        "custom": {
+          "userName": "EMPTY",
+          "date": null,
+          "text1": "EMPTY",
+          "text2": "EMPTY",
+          "userFirstName": null,
+          "userLastName": null
+        },
+        "compensation": {
+          "creditUsers": ["EMPTY"],
+          "expertOnlineUsers": ["EMPTY"],
+          "expertOnlineUsersTotalPercentage": null,
+          "expertInvitationUsers": ["EMPTY"]
+        },
+        "extensionRevenue": {
+          "rentalBookingAndRevenueImpact": "EMPTY",
+          "rentalRevenueRecognitionRules": "EMPTY",
+          "includeInCompensationComputation": "EMPTY",
+          "rentalContractType": "EMPTY"
+        },
+        "mceLock": "EMPTY",
+        "lnoLock": "1678792839710",
+        "salesMceLnoAligned": "No"
+      }
+    ]
+  }
+}
