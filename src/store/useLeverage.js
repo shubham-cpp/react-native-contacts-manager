@@ -9,7 +9,12 @@ const structuredClone = (obj) => {
 export const useLeverage = create(
   persist(
     (set, get) => ({
+      /** @type {Contact[]} */
       leverage: [],
+      /**
+       * Update the leverage if this exists
+       * @param {Contact} leverage
+       */
       updateLeverage: (leverage) => {
         set((state) => {
           const idx = state.leverage.findIndex((l) => l.id === leverage.id);
@@ -24,8 +29,13 @@ export const useLeverage = create(
           };
         });
       },
+      /**
+       *
+       * @param {string} id
+       * @returns {Contact | undefined}
+       */
       getLeverage: (id) => {
-        return structuredClone(get().leverage).find((l) => l.id === id);
+        return get().leverage.find((l) => l.id === id);
       },
       setLeverages: (leverages) => {
         set({ leverage: leverages });

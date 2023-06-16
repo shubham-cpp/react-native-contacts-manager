@@ -13,16 +13,16 @@ export default function BottomFooter() {
       openIcon={{ name: "close", color: "#fff" }}
       onOpen={() => setOpen(!open)}
       onClose={() => setOpen(!open)}
+      style={{
+        position: "absolute",
+        bottom: 50,
+        right: 0,
+      }}
     >
       <SpeedDial.Action
         icon={{ name: "add", color: "#fff" }}
-        title="Create Lead"
+        title="Create Contact"
         onPress={() => console.log("Created Lead")}
-      />
-      <SpeedDial.Action
-        icon={{ name: "add", color: "#fff" }}
-        title="Create Oppy"
-        onPress={() => console.log("Created Oppy")}
       />
       <SpeedDial.Action
         icon={{ name: "camera", color: "#fff" }}
