@@ -9,7 +9,10 @@ import BottomFooter from "../src/components/BottomFooter";
 import Card from "../src/components/Card";
 import SelectView from "../src/components/SelectView";
 import { useLeverage } from "../src/store/useLeverage";
-
+import ListHeader from "../src/components/ListHeader";
+import { useRef } from "react";
+import NetInfo from "@react-native-community/netinfo";
+import { isEmpty } from "../src/utils";
 Logs.enableExpoCliLogging();
 
 const fetchData = async (setData) => {
@@ -32,10 +35,16 @@ const LoadingCard = () => {
 export default function App() {
   const navigation = useNavigation();
   const [selected, setSelected] = useState("All");
-  const [data, setData] = useLeverage(
-    (state) => [state.leverage, state.setLeverages],
+  const [data, setData, offlineData, resetOfflineData] = useLeverage(
+    (state) => [
+      state.leverage,
+      state.setLeverages,
+      state.offlineLeverages,
+      state.resetOfflineLeverages,
+    ],
     shallow
   );
+  const unsubscribe = useRef(null);
   useLayoutEffect(() => {
     navigation.setOptions({
       title: "Contacts React Native",
@@ -43,6 +52,12 @@ export default function App() {
   }, [navigation]);
   useEffect(() => {
     fetchData(setData);
+    unsubscribe.current = NetInfo.addEventListener((state) => {
+      if (state.isConnected && !isEmpty(offlineData)) {
+        resetOfflineData();
+      }
+    });
+    return unsubscribe.current;
   }, []);
 
   const list = [
@@ -73,7 +88,10 @@ export default function App() {
         />
       ) : (
         <>
-          <SelectView list={list} value={selected} />
+          <View className="flex-row justify-between items-center">
+            <SelectView list={list} value={selected} />
+            <ListHeader />
+          </View>
           <SafeAreaView>
             <FlatList
               data={data}

@@ -2,20 +2,18 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 import { create } from "zustand";
 import { createJSONStorage, persist } from "zustand/middleware";
 
-const structuredClone = (obj) => {
-  return JSON.parse(JSON.stringify(obj));
-};
-
 export const useLeverage = create(
   persist(
     (set, get) => ({
       /** @type {Contact[]} */
       leverage: [],
+      /** @type {Contact[]} */
+      offlineLeverages: [],
       /**
        * Update the leverage if this exists
        * @param {Contact} leverage
        */
-      updateLeverage: (leverage) => {
+      updateLeverage: (leverage, offline = false) => {
         set((state) => {
           const idx = state.leverage.findIndex((l) => l.id === leverage.id);
           if (idx !== -1) {
@@ -23,9 +21,11 @@ export const useLeverage = create(
           } else {
             state.leverage.push(leverage);
           }
-          // AsyncStorage.setItem("leverage", JSON.stringify(state.leverage));
           return {
             leverage: state.leverage,
+            offlineLeverages: offline
+              ? [...state.offlineLeverages, leverage]
+              : state.offlineLeverages,
           };
         });
       },
@@ -39,6 +39,9 @@ export const useLeverage = create(
       },
       setLeverages: (leverages) => {
         set({ leverage: leverages });
+      },
+      resetOfflineLeverages: () => {
+        set({ offlineLeverages: [] });
       },
     }),
     {

@@ -148,10 +148,13 @@ const Card = (props) => {
       {/* Engagement type and current status */}
       <View className="flex-row gap-x-2">
         <Text className={"text-sm border px-2 rounded border-gray-300 "}>
+          {leverage.organization.organizationType}
+        </Text>
+        <Text className={"text-sm border px-2 rounded border-gray-300 "}>
           {leverage.status}
         </Text>
         <Text>
-          {new Date(leverage.startDate).toLocaleString().split(",")[0]}
+          {new Date(leverage.startDate).toLocaleString("en-IN").split(",")[0]}
         </Text>
       </View>
     </View>

@@ -12,7 +12,9 @@ import {
 import { shallow } from "zustand/shallow";
 import crsData from "../../crsData.json";
 import TextInputOrDisplay from "../../src/components/TextInputOrDisplay";
-import { useLeverage } from "../../src/store/useLeverage";
+import { useLeverage, useContact } from "../../src/store";
+import { useRef } from "react";
+import NetInfo from "@react-native-community/netinfo";
 
 const fetchData = async (id, setData) => {
   return new Promise((resolve, reject) => {
@@ -26,15 +28,18 @@ const fetchData = async (id, setData) => {
 export default function Leverage() {
   const params = useSearchParams();
   const navigation = useNavigation();
-  const [selected, setSelected] = useState("");
-  const [contact, setContact] = useLeverage(
-    (state) => [state.getLeverage(params.id), state.updateLeverage],
+
+  const setContactGrid = useLeverage((state) => state.updateLeverage);
+  const [contact, setContact, resetContact] = useContact(
+    (state) => [state.contact, state.updateContact],
     shallow
   );
 
   const [open, setOpen] = useState(false);
   const [loading, setLoading] = useState(true);
   const [editing, setEditing] = useState(false);
+
+  const originalContact = useRef(null);
 
   useLayoutEffect(() => {
     navigation.setOptions({
@@ -43,20 +48,47 @@ export default function Leverage() {
   }, [params, navigation]);
   useEffect(() => {
     fetchData(params.id, setContact)
-      .then((lev) => {
+      .then((cont) => {
         navigation.setOptions({
-          title: `${lev.jobTitle} - ${lev.organization.legalName}`,
+          title: `${cont.jobTitle} - ${cont.organization.legalName}`,
         });
+        originalContact.current = cont;
       })
       .catch((err) => {
         ToastAndroid.show(err, ToastAndroid.SHORT);
         console.log(err);
       })
       .finally(() => setLoading(false));
+    return resetContact;
+
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [params.id]);
 
-  if (loading) return <ActivityIndicator size="large" />;
+  const handleSave = () => {
+    setEditing(false);
+
+    NetInfo.fetch().then((state) => {
+      if (state.isConnected) {
+        setLoading(true);
+        setTimeout(() => {
+          setLoading(false);
+        }, 1200);
+      }
+      setContact(contact);
+      originalContact.current = contact;
+      setContactGrid(contact, !state.isConnected);
+    });
+  };
+
+  if (loading)
+    return (
+      <View className="flex-1 justify-center">
+        <ActivityIndicator size="large" />
+        <Text className="mt-2 text-lg text-center font-semibold">
+          Updating Contact, hold tight
+        </Text>
+      </View>
+    );
   return (
     <SafeAreaView className="flex-1">
       <ScrollView className="border-2">
@@ -159,15 +191,23 @@ export default function Leverage() {
               </Text>
             ) : (
               <View className="flex-[3] flex-row flex-wrap">
-                {["company", "education", "governmental", "individual"].map(
+                {["COMPANY", "EDUCATION", "GOVERNMENTAL", "INDIVIDUAL"].map(
                   (e) => (
                     <CheckBox
                       containerStyle={{ margin: 0, padding: 0 }}
                       textStyle={{ margin: 0, padding: 0 }}
                       wrapperStyle={{ margin: 0, padding: 0 }}
-                      checked={selected === e}
-                      title={e.charAt(0).toUpperCase() + e.slice(1)}
-                      onPress={() => setSelected(e)}
+                      checked={e === contact.organization.organizationType}
+                      title={e.charAt(0) + e.slice(1).toLowerCase()}
+                      onPress={() =>
+                        setContact({
+                          ...contact,
+                          organization: {
+                            ...contact.organization,
+                            organizationType: e,
+                          },
+                        })
+                      }
                       checkedIcon="dot-circle-o"
                       uncheckedIcon="circle-o"
                       key={e}
@@ -190,7 +230,7 @@ export default function Leverage() {
           icon={{ name: editing ? "save" : "edit", color: "#fff" }}
           title={editing ? "Save" : "Edit"}
           onPress={() => {
-            setEditing((p) => !p);
+            editing ? handleSave() : setEditing((p) => !p);
             setOpen(false);
           }}
         />
@@ -200,6 +240,7 @@ export default function Leverage() {
           onPress={() => {
             setEditing(false);
             setOpen(false);
+            setContact(originalContact.current);
           }}
         />
       </SpeedDial>
