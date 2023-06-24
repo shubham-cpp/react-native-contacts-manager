@@ -15,19 +15,24 @@ yarn install # or npm install
 ```
 
 ## Features
-- Google Maps Integration
+### Google Maps Integration
 Shows the location of current user
+
 ![Google Maps Demo](./demos/google-maps.gif)
-- Contacts
-  - Contacts Dial
-  ![Contacts From Mobile](./demos/contacts-dial.gif)
-  - Contacts from Mobile Phone
-  ![Contacts From Mobile](./demos/contacts-list.gif)
-- Offline first philosophy
+
+### Contacts
+#### Contacts Dial
+![Contacts From Mobile](./demos/contacts-dial.gif)
+#### Contacts from Mobile Phone
+![Contacts From Mobile](./demos/contacts-list.gif)
+
+### Offline first philosophy
 We make a request to server if internet connection is available else we store data in local storage(async storage)
+
 ![Offline support demo](./demos/offline-first.gif) 
 
-- QR Code scanner
+### QR Code scanner
 Scan any QR code
+
 ![QR Code Demo](./demos/qr-code.gif)
 
