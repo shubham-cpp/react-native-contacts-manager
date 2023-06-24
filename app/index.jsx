@@ -4,14 +4,13 @@ import { useEffect, useLayoutEffect, useState } from "react";
 import { ActivityIndicator, FlatList, SafeAreaView, View } from "react-native";
 import { shallow } from "zustand/shallow";
 // import jsonData from "../data.json";
+import { useNetInfo } from "@react-native-community/netinfo";
 import crsData from "../crsData.json";
 import BottomFooter from "../src/components/BottomFooter";
 import Card from "../src/components/Card";
+import ListHeader from "../src/components/ListHeader";
 import SelectView from "../src/components/SelectView";
 import { useLeverage } from "../src/store/useLeverage";
-import ListHeader from "../src/components/ListHeader";
-import { useRef } from "react";
-import NetInfo from "@react-native-community/netinfo";
 import { isEmpty } from "../src/utils";
 Logs.enableExpoCliLogging();
 
@@ -34,7 +33,7 @@ const LoadingCard = () => {
 
 export default function App() {
   const navigation = useNavigation();
-  const [selected, setSelected] = useState("All");
+  const netInfo = useNetInfo();
   const [data, setData, offlineData, resetOfflineData] = useLeverage(
     (state) => [
       state.leverage,
@@ -44,7 +43,8 @@ export default function App() {
     ],
     shallow
   );
-  const unsubscribe = useRef(null);
+  const [selected, setSelected] = useState("All");
+
   useLayoutEffect(() => {
     navigation.setOptions({
       title: "Contacts React Native",
@@ -52,13 +52,14 @@ export default function App() {
   }, [navigation]);
   useEffect(() => {
     fetchData(setData);
-    unsubscribe.current = NetInfo.addEventListener((state) => {
-      if (state.isConnected && !isEmpty(offlineData)) {
-        resetOfflineData();
-      }
-    });
-    return unsubscribe.current;
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+  useEffect(() => {
+    if (netInfo.isConnected && !isEmpty(offlineData)) {
+      resetOfflineData();
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [netInfo.isConnected, offlineData]);
 
   const list = [
     {
